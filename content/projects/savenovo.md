@@ -10,7 +10,7 @@ creators:
   - 2113
   - 5412
   - 7878
-  - 8274
+  - 4706
   - 1477
 thumbnail: /projects/savenovo.png
 ---

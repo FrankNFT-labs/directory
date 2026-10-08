@@ -13,7 +13,7 @@ links:
   - https://x.com/frankNFT_eth
   - https://opensea.io/collection/v1-cryptopunks-wrapped
 creators:
-  - 8274
+  - 4706
 ---
 
 CryptoPunks V1 refers to the original smart contract released by Larva Labs on June 9, 2017. A critical bug was discovered after all 10,000 tokens were claimed, leading Larva Labs to create V2 on June 23, 2017, and airdrop new tokens to original claimants.
