@@ -3,15 +3,15 @@ name: CryptoPunks V1
 description: >-
   The original CryptoPunks from the initial 2017 smart contract, wrapped as
   ERC-721 tokens. A controversial piece of punk history.
-url: https://v1punks.io/
-launchDate: 2021-01-01
+url: https://v1cryptopunks.com/
+launchDate: 2022-01-17
 tags:
   - History
-  - Derivative
+  - Controversial
   - Community
 links:
   - https://x.com/frankNFT_eth
-  - https://opensea.io/collection/v1-cryptopunks-wrapped
+  - https://opensea.io/collection/official-v1-punks
 creators:
   - 4706
 ---
