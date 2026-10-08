@@ -12,6 +12,7 @@ tags:
 links:
   - https://x.com/frankNFT_eth
   - https://opensea.io/collection/official-v1-punks
+  - https://frankponcelet.com/blog/cryptopunks-v1-wrapper
 creators:
   - 4706
 thumbnail: /projects/cryptopunks-v1.png

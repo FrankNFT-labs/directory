@@ -10,6 +10,7 @@ tags:
   - Education
 links:
   - https://www.npmjs.com/package/@franknft.eth/erc721-f
+  - https://frankponcelet.com/blog/erc721f-multiple-and-single
 creators:
   - 4706
 thumbnail: /projects/erc721f.png
