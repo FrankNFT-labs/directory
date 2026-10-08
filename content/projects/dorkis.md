@@ -14,6 +14,7 @@ links:
   - https://frankponcelet.com/blog/we-are-dorkis
 creators:
   - 4706
+thumbnail: /projects/dorkis.jpg
 ---
 
 We Are Dorkis is a collection of hand-drawn characters by Tori Batt, an artist from New Zealand. She drew more than 300 traits in pencil and ballpoint on paper, then scanned and scaled each one. The idea and the sale mechanics came from fccview. FrankNFT wrote the smart contract and a Python engine that layered the drawings into finished characters, because off-the-shelf generators could not handle paper texture or the transparent edges where one trait overlaps the next.

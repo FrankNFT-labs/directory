@@ -12,6 +12,7 @@ links:
   - https://www.npmjs.com/package/@franknft.eth/erc721-f
 creators:
   - 4706
+thumbnail: /projects/erc721f.png
 ---
 
 ERC721F extends OpenZeppelin's ERC721 without ERC721Enumerable, and keeps `totalSupply()` and `walletOfOwner()`. Every token is written to storage when it is minted, so whoever buys it later does not pay for someone else's cheap batch mint. FrankNFT wrote it in March 2022 as a reply to Chiru Labs' ERC721A, which makes batch mints cheap and moves the cost to each token's first transfer.
